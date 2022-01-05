@@ -1,0 +1,2 @@
+Selectors read left to right if they are not separated by space.
+Right to left if separated by space.
